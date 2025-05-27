@@ -6,7 +6,7 @@ area:
 obstacles:
 - centroid_x: 0
   centroid_y: 0
-  radius: 2
+  radius: 1.0
   velocity_x: 0
   velocity_y: 0
   acc_x: 0
